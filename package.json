@@ -1,0 +1,24 @@
+{
+  "name": "crazystat-js",
+  "version": "0.0.1",
+  "description": "First Commit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crazymuse/crazystat-js.git"
+  },
+  "keywords": [
+    "stats",
+    "ml",
+    "dl"
+  ],
+  "author": "Jaley Dholakiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crazymuse/crazystat-js/issues"
+  },
+  "homepage": "https://github.com/crazymuse/crazystat-js#readme"
+}
